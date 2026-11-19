@@ -23,9 +23,9 @@ Found that grocery drives ~72% of transactions and that 12–2 PM is the rush, a
 
 ### 🧰 Toolkit
 
-**Data & BI:** SQL (MySQL, SQLite) · Power BI · DAX · Power Query · Excel
-**Programming & AI:** Python (pandas, PyMuPDF, pdfplumber) · LLM automation · OCR · RAG · Git
-**Business:** requirements gathering · KPI reporting · data validation · training end users
+- **Data & BI:** SQL (MySQL, SQLite) · Power BI · DAX · Power Query · Excel
+- **Programming & AI:** Python (pandas, PyMuPDF, pdfplumber) · LLM automation · OCR · RAG · Git
+- **Business:** requirements gathering · KPI reporting · data validation · training end users
 
 ---
 
